@@ -1,0 +1,7 @@
+
+Django==1.11.22
+djangorestframework==3.9.4
+pip==19.1.1
+gunicorn
+django-filter
+django-rest-swagger
